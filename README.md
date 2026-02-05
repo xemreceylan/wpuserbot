@@ -67,8 +67,8 @@
 
 ### Adım 1: Projeyi İndir
 ```bash
-git clone https://github.com/yourusername/whatsapp-userbot.git
-cd whatsapp-userbot
+git clone https://github.com/xemreceylan/wpuserbot.git
+cd wpuserbot
 ```
 
 ### Adım 2: Bağımlılıkları Yükle
